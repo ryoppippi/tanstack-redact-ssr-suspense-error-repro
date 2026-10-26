@@ -1,0 +1,2 @@
+{ "name": "redact-ssr-suspense-error-repro", "private": true, "type": "module",
+  "dependencies": { "@tanstack/redact": "0.2.0", "react": "19.2.0", "react-dom": "19.2.0" } }
